@@ -1,3 +1,5 @@
+package leetcode;
+
 import java.io.Serializable;
 import java.util.*;
 
